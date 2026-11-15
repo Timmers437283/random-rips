@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://./src/components/menu-bar/about-menu.css"],"names":[],"mappings":"AAAA;IACI,eAAe;IACf,cAAc;IACd,sBAAsB;AAC1B","sourcesContent":[".about-icon {\n    height: 1.25rem;\n    margin: 0.5rem;\n    vertical-align: middle;\n}\n"],"sourceRoot":""}

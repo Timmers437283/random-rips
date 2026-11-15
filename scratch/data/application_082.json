@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://./src/components/menu-bar/save-status.css"],"names":[],"mappings":"AAAA;IACI,2DAA2D;AAC/D;;AAEA;IACI,eAAe;AACnB","sourcesContent":[".save-now {\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n}\n\n.alert {\n    cursor: default;\n}\n"],"sourceRoot":""}

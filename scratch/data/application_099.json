@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://./src/components/alerts/alerts.css"],"names":[],"mappings":"AAAA;IACI,gBAAgB;IAChB,gBAAgB;AACpB","sourcesContent":[".alerts-inner-container {\n    min-width: 200px;\n    max-width: 548px;\n}\n"],"sourceRoot":""}

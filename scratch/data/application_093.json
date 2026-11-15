@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://./src/components/watermark/watermark.css"],"names":[],"mappings":";AACA;IACI,YAAY;IACZ,yBAAiB;OAAjB,sBAAiB;QAAjB,qBAAiB;YAAjB,iBAAiB;IACjB,eAAe;IACf,gBAAgB;IAChB,aAAa;AACjB","sourcesContent":["\n.sprite-image {\n    margin: auto;\n    user-select: none;\n    max-width: 48px;\n    max-height: 48px;\n    opacity: 0.35;\n}\n"],"sourceRoot":""}

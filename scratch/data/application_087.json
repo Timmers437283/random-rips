@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://./src/components/menu-bar/login-dropdown.css"],"names":[],"mappings":";AACA;IACI,gBAAgB;AACpB","sourcesContent":["\n.login {\n    padding: .625rem;\n}\n"],"sourceRoot":""}
